@@ -4,6 +4,6 @@ This is a simple project of a Home page for a photography portfolio Website wher
 2)Two buttons for 
        (i)Like Share
        (ii)Subscribe
-Take a look at the web page which is created in the project
+Take a look at the web page which is created in this project
 https://saurabb.github.io/web-page/
 
